@@ -1,0 +1,32 @@
+Notes Related to Color in HTML 
+
+
+--- color ko headtag k under bhi likh sakte hai 
+ --> ya seperate css bhi likh sakte. 
+
+
+-- color mai rgb means red, blue, green. q ki saare colour issi se banaye jatte hai 
+-- hsl means hew saturation light ( color wheel concept . 0 to 360)
+-- hsl and rgb k agge a(alpha channel means opacity) laga sakte hai jiska matlab huya 
+      hsla( a ki value jata 0 se 1 means opacity value . .5 means 50% opacity)
+
+a. simply color nai dena hai like blue, green, red etc 
+    -- agar wo kiya to different browser different result denge color ka depth 
+   -> iss liye value hai . wo designer hi deta hai 
+
+   css mai style 
+    -> body{ background color means full page color.simple color means only text color( full web text )  }
+
+
+
+b. colour wheel se pata chal jaega ki kitta dark karna hai ya light 
+
+c. hex, hsl & rgb mai se jada tar rgb hi use hota hai ajj kal 
+
+d. color saturation  ( dark blue, light blue, sky blue ) , intensity kitan ho l, lightness kitan h
+
+
+e.  a means alpha means opacity . 
+
+f. .5 means 50% opacity 
+
